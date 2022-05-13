@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>查看图片 (1).png</file>
+    <file>19-帮助中心.png</file>
+    <file>保存_操作_jurassic.png</file>
+    <file>查看图片.png</file>
+    <file>管理设置_操作_jurassic.png</file>
+    <file>chakantupian.png</file>
+    <file>duowenjian.png</file>
+    <file>duowenjian_1.png</file>
+    <file>jurassic_add-project.png</file>
+    <file>jurassic_open.png</file>
+    <file>jurassic_preview.png</file>
+    <file>jurassic_save.png</file>
+  </qresource>
+</RCC>
